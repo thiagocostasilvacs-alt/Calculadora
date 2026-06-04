@@ -51,3 +51,7 @@ Durante o desenvolvimento deste projeto foram praticados conceitos importantes d
 ## Autor
 
 Desenvolvido por Thiago Costa como projeto de estudo e prática em Python.
+
+## Interface
+
+![Calculadora](calculadora.png)
